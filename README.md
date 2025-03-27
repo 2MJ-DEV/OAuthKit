@@ -1,4 +1,4 @@
-# 🔐 OAuthKit - Boutons d'authentification prêts à l'emploi
+# 🔐 OAuthKit - Outils d'authentification prêts à l'emploi
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![npm version](https://img.shields.io/npm/v/authconnectjs)](https://www.npmjs.com/package/authconnectjs)
